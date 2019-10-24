@@ -8,6 +8,7 @@ namespace Dapper101AHBCJULY2019.Models
     public class CustomerViewModel
     {
         public string Id { get; set; }
+        public string Name { get; set; }
         public string CompanyName { get; set; }
         public string Address { get; set; }
         public string City { get; set; }

@@ -7,6 +7,6 @@ namespace Dapper101AHBCJULY2019.Models
 {
     public class CustomersViewModel
     {
-        public IEnumerable<CustomerViewModel> Customers { get; set; }
+        public IEnumerable<CustomerListItemViewModel> Customers { get; set; }
     }
 }

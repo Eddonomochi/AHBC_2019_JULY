@@ -12,7 +12,7 @@ namespace Dapper101AHBCJULY2019.NorthwindServices
     public interface ICustomerService
     {
         CustomersViewModel GetCustomers();
-        CustomerViewModel GetCustomer(string firstName);
+        CustomerViewModel GetCustomer(string id);
     }
 
     public class CustomerService : ICustomerService
@@ -28,12 +28,11 @@ namespace Dapper101AHBCJULY2019.NorthwindServices
         {
             var dalCustomers = _customerStore.SelectAllCustomers();
 
-            var customers = new List<CustomerViewModel>();
+            var customers = new List<CustomerListItemViewModel>();
 
             foreach (var dalCustomer in dalCustomers)
             {
-                var customer = MapCustomerViewModel(dalCustomer);
-                customers.Add(customer);
+                customers.Add(new CustomerListItemViewModel(dalCustomer));
             }
 
             var customerViewModel = new CustomersViewModel();
@@ -42,9 +41,9 @@ namespace Dapper101AHBCJULY2019.NorthwindServices
             return customerViewModel;
         }
 
-        public CustomerViewModel GetCustomer(string firstName)
+        public CustomerViewModel GetCustomer(string id)
         {
-            var dalCustomer = _customerStore.SelectCustomerByFirstName(firstName);
+            var dalCustomer = _customerStore.SelectCustomerById(id);
 
             var customer = MapCustomerViewModel(dalCustomer);
 
@@ -55,6 +54,7 @@ namespace Dapper101AHBCJULY2019.NorthwindServices
         {
             var customer = new CustomerViewModel();
             customer.CompanyName = dalCustomer.CompanyName;
+            customer.Name = dalCustomer.ContactName;
             customer.Id = dalCustomer.CustomerID;
             customer.Address = dalCustomer.Address;
             customer.City = dalCustomer.City;

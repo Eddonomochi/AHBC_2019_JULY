@@ -13,6 +13,8 @@ namespace Dapper101AHBCJULY2019.DAL
     {
         IEnumerable<CustomerDALModel> SelectAllCustomers();
         CustomerDALModel SelectCustomerByFirstName(string firstName);
+
+        CustomerDALModel SelectCustomerById(string id);
     }
 
     public class CustomerStore : ICustomerStore
@@ -42,6 +44,18 @@ namespace Dapper101AHBCJULY2019.DAL
             using (var connection = new SqlConnection(_config.ConnectionString))
             {
                 var result = connection.QueryFirstOrDefault<CustomerDALModel>(sql, new {ContactName = $"%{firstName}%"});
+
+                return result;
+            }
+        }
+
+        public CustomerDALModel SelectCustomerById(string id)
+        {
+            var sql = @"Select * From Customers where CustomerId = @CustomerId";
+
+            using (var connection = new SqlConnection(_config.ConnectionString))
+            {
+                var result = connection.QueryFirstOrDefault<CustomerDALModel>(sql, new { CustomerID = id });
 
                 return result;
             }

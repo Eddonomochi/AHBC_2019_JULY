@@ -33,9 +33,9 @@ namespace Dapper101AHBCJULY2019.Controllers
             return View();
         }
 
-        public IActionResult Customer(string firstName)
+        public IActionResult Customer(string id)
         {
-            var customer = _customerService.GetCustomer(firstName);
+            var customer = _customerService.GetCustomer(id);
             return View(customer);
         }
     }

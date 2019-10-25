@@ -34,3 +34,38 @@ C:\Development\GRAND CIRCUS\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netco
 C:\Development\GRAND CIRCUS\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Razor\Views\Northwind\Home.cshtml.g.cs
 C:\Development\GRAND CIRCUS\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Razor\Views\Northwind\GetCustomer.cshtml.g.cs
 C:\Development\GRAND CIRCUS\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Razor\Views\Northwind\Customer.cshtml.g.cs
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\bin\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.deps.json
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\bin\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.runtimeconfig.json
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\bin\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.runtimeconfig.dev.json
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\bin\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.dll
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\bin\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.pdb
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\bin\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.Views.dll
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\bin\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.Views.pdb
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.RazorAssemblyInfo.cache
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.RazorAssemblyInfo.cs
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.AssemblyInfoInputs.cache
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.AssemblyInfo.cs
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.TagHelpers.input.cache
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.TagHelpers.output.cache
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.RazorCoreGenerate.cache
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Razor\Views\Northwind\Customer.cshtml.g.cs
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Razor\Views\Northwind\Customers.cshtml.g.cs
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Razor\Views\Northwind\GetCustomer.cshtml.g.cs
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Razor\Views\Northwind\Home.cshtml.g.cs
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.RazorTargetAssemblyInfo.cache
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.RazorTargetAssemblyInfo.cs
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.Views.pdb
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.dll
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.pdb
+C:\Users\customer\Source\Repos\AHBC_2019_JULY\Dapper101AHBCJULY2019\obj\Debug\netcoreapp2.2\Dapper101AHBCJULY2019.csproj.CopyComplete

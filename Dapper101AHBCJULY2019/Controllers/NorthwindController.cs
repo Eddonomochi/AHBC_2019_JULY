@@ -11,6 +11,8 @@ namespace Dapper101AHBCJULY2019.Controllers
     public class NorthwindController : Controller
     {
         private readonly ICustomerService _customerService;
+        private readonly IProductService _productService;
+
 
         public NorthwindController(ICustomerService customerService)
         {
@@ -23,12 +25,24 @@ namespace Dapper101AHBCJULY2019.Controllers
             return View(result);
         }
 
+        public IActionResult Products()
+        {
+            var result = _productService.GetProducts();
+            return View(result);
+        }
+
+
         public IActionResult Home()
         {
             return View();
         }
 
         public IActionResult GetCustomer()
+        {
+            return View();
+        }
+
+        public IActionResult GetProduct()
         {
             return View();
         }

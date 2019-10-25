@@ -40,6 +40,7 @@ namespace Dapper101AHBCJULY2019
 
             services.AddSingleton(appConfig);
             services.AddSingleton<ICustomerService, CustomerService>();
+            services.AddSingleton<IProductService, ProductService>();
             services.Configure<CookiePolicyOptions>(options =>
             {
                 // This lambda determines whether user consent for non-essential cookies is needed for a given request.

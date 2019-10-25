@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elionte\\Source\\Repos\\AHBC_2019_JULY\\Dapper101AHBCJULY2019\\Dapper101AHBCJULY2019.csproj": {}
+    "C:\\Users\\customer\\Source\\Repos\\AHBC_2019_JULY\\Dapper101AHBCJULY2019\\Dapper101AHBCJULY2019.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elionte\\Source\\Repos\\AHBC_2019_JULY\\Dapper101AHBCJULY2019\\Dapper101AHBCJULY2019.csproj": {
+    "C:\\Users\\customer\\Source\\Repos\\AHBC_2019_JULY\\Dapper101AHBCJULY2019\\Dapper101AHBCJULY2019.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elionte\\Source\\Repos\\AHBC_2019_JULY\\Dapper101AHBCJULY2019\\Dapper101AHBCJULY2019.csproj",
+        "projectUniqueName": "C:\\Users\\customer\\Source\\Repos\\AHBC_2019_JULY\\Dapper101AHBCJULY2019\\Dapper101AHBCJULY2019.csproj",
         "projectName": "Dapper101AHBCJULY2019",
-        "projectPath": "C:\\Users\\elionte\\Source\\Repos\\AHBC_2019_JULY\\Dapper101AHBCJULY2019\\Dapper101AHBCJULY2019.csproj",
-        "packagesPath": "C:\\Users\\elionte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elionte\\Source\\Repos\\AHBC_2019_JULY\\Dapper101AHBCJULY2019\\obj\\",
+        "projectPath": "C:\\Users\\customer\\Source\\Repos\\AHBC_2019_JULY\\Dapper101AHBCJULY2019\\Dapper101AHBCJULY2019.csproj",
+        "packagesPath": "C:\\Users\\customer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\customer\\Source\\Repos\\AHBC_2019_JULY\\Dapper101AHBCJULY2019\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\elionte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\customer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,10 +65,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
